@@ -16,7 +16,7 @@ Hook direnv to your shell (In my case it is zsh. For more hooks, refer https://d
 eval "$(direnv hook zsh)"
 ```
 
-Now create a `.envrc` and put env to be loaded when entering the directory
+Now create a `.envrc` in the desired directory and put env to be loaded when entering the directory
 
 ```shell
 
