@@ -9,3 +9,4 @@ A collection of small things I learn in everyday life. These are things I would 
 
 - [direnv](shell/direnv.md)
 - [zuluMount](shell/zuluMount.md)
+- [rclone](shell/rclone.md)
